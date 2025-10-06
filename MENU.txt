@@ -1,0 +1,16 @@
+A1-KitKat Chunky Bar  -1.00-vegetarian-regular
+B1-Starburst Tropical -1.00-regular
+C1-Coffee Crisp Double-1.20-vegetarian-regular
+D1-Aero Chocolate Mint-1.00-vegetarian-regular
+A2-Lay's Potato Chips -1.50-vegetarian-vegan-regular
+B2-Organic Apple Chips-2.00-vegetarian-vegan-regular
+C2-Doritos Sweet Chili-1.75-vegetarian-regular
+D2-QUEST Original Chip-2.00-vegetarian-keto-regular
+A3-Peppered Beef Jerky-1.50-keto-regular
+B3-Cliff Bar Chocolate-1.50-vegetarian-regular
+C3-Vegan Gronola Bar  -2.00-vegetarian-vegan-regular
+D3-PeanutButter Cookie-1.50-vegan-vegetarian-regular
+A4-Acai Vitamin Water -3.00-vegetarian-vegan-regular
+B4-Coca cola Starlight-2.00-vegetarian-vegan-regular
+C4-Nestea Peach Drink -1.50-vegetarian-vegan-regular
+D4-Kiwi Sparking Water-2.00-vegetarian-vegan-keto-regular
